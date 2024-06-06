@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/weather?q=Santos,br&APPID=cd851f8b734bbcbdf9882b9c86e1bff9
