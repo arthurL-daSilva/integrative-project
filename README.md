@@ -27,7 +27,7 @@ In the end, after all the problems we "solved", everything were where it belongs
 I decided to use an API for weather forecast, unfortunately I couldn't finish 
 it because I didn't know how to use and had no time to learn it.
 
-This was my history creating this project, I didn't change anything present in those
+This was my history creating this project, I didn't change anything in those
 codes for the reason it's my first ones.
 hope this helps someone who it's reading this.
 Have a nice day!
